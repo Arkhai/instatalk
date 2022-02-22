@@ -9,6 +9,7 @@ gem 'puma', '~> 5.0'
 gem 'rails', '~> 6.1.4', '>= 6.1.4.6'
 gem 'redis', '~> 4.0'
 gem 'sass-rails', '>= 6'
+gem 'turbo-rails'
 gem 'webpacker', '~> 5.0'
 
 group :development, :test do
